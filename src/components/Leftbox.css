@@ -1,0 +1,19 @@
+.left-box{
+    display: flex;
+    width: 250px;
+    height: 120px;
+    border: 1px solid blue;
+    box-sizing: border-box;
+}
+h6{
+    text-align: left;
+    
+
+}
+.small{
+    font-size: small;
+    text-decoration: none;
+}
+.space5{
+    margin-top: 5px;
+}

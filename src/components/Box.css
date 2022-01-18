@@ -1,0 +1,41 @@
+.box{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+
+}
+.space1{
+    margin-top: 10%;
+}
+.heading1{
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+.sub-heading1{
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+.heading2{
+    text-align:start;
+    justify-content: left;
+    color: white;
+}
+.sub-heading2{
+    color: white;
+    text-align:start;
+    justify-content: start;
+    justify-items: inherit;
+}
+.space3{
+    margin-top: 25%;
+}
+
+ @media only screen and (min-width:1048px){
+    .guide1-img{
+        margin-left: 120px;
+       
+    }
+    
+} 

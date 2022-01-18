@@ -1,0 +1,21 @@
+.login-form{
+    height: 300px;
+    width: 200px;
+    
+    border-radius: 5px;
+    font-size: 18px;
+
+}
+.butn{
+    background-color: black;
+    color: cornsilk;
+    width: 350px;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+
+}
+.logo-png{
+margin-top: 30%;
+
+}

@@ -1,0 +1,33 @@
+.db-payment-left{
+    height: 35%;
+    width: 80%;
+    border: 1px solid rgb(212, 212, 212);
+    /* margin-left: -15%; */
+}
+.merchant-right{
+    height: 200%;
+    width: 100%;
+    border: 1px solid rgb(212, 212, 212);
+    /* margin-left: -15%; */
+
+}
+.b{
+    margin-top: 8%;
+    margin-bottom: 5%;
+}
+.merchant-bottom{
+    height: 100%;
+    width: 100%;
+    border: 1px solid rgb(212, 212, 212);
+
+}
+.c{
+    margin-top: 19%;
+}
+
+@media screen and (max-width:1441px){
+   pre{
+    white-space: pre-wrap;
+   }
+
+}

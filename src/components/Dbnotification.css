@@ -1,0 +1,13 @@
+.noti{
+    margin-top: 2%;
+    margin-left: 20px;
+    font-size: x-large;
+    text-transform: uppercase;
+
+}
+.bord{
+   
+    height: 12%;
+    width: 100%;
+    background-color: rgb(233, 233, 233);
+}

@@ -1,0 +1,24 @@
+.heading{
+    text-align: center;
+    justify-content: center;
+}
+
+.sub-heading{
+    text-align: center;
+    justify-content: center;
+}
+.button{
+    text-align: center;
+    text-transform: uppercase;
+    justify-content: center;
+    justify-items: center;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+     margin-left: 35%; 
+
+    
+}
+.space{
+    margin-top: 17%;
+}

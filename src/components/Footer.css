@@ -1,0 +1,14 @@
+footer{
+    background-color: #000;
+  }
+  .link {
+    color: #fff;
+    text-decoration: none;
+    margin-top: 20px;
+  }
+
+.footer-heading{
+    color: white;
+    text-transform: capitalize;
+    
+}

@@ -1,0 +1,40 @@
+.navbar-brand{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+/* .navbar-nav{
+    text-align: center;
+    justify-content: center;
+}   
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+}
+li {
+    margin-left: 10px;
+} */
+
+.name {
+    margin-left: 5%;
+}
+   .center {
+    margin-left: 34%;
+}  
+.btn  {
+    margin-left: 30%;
+    
+}
+.link{
+    text-decoration: none;
+}
+ @media screen and (max-width:1023px)
+{
+    .center,.btn{
+        text-transform:uppercase;
+        margin-left:40px;
+
+        
+    }
+} 

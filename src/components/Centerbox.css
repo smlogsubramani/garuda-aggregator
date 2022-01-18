@@ -1,0 +1,38 @@
+.vl{
+    border-left: 3px solid rgb(212, 207, 207);
+    height: 50px;
+  }
+  .sub{
+    text-align: center;
+  }
+ .center-box{
+   background-color: rgb(248, 248, 248);
+ }
+ .col-half-offset{
+  margin-left:4.166666667%
+ }
+    .movecenter{
+      padding-left: 30%;
+      
+
+    }
+
+@media only screen and (max-width:1000px){
+  .col-half-offset{
+    margin-left: 11px;
+
+   
+  }
+  .sub{
+    font-size: 12px;
+  }
+  .movecenter{
+    padding-left: 5px;
+    font-size: 15px;
+   
+  }
+  .vl{
+    padding-left: 10px;
+  }
+  
+}

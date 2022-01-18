@@ -1,0 +1,23 @@
+.heading{
+    text-align: center;
+    justify-content: center;
+    text-transform: uppercase;
+}
+
+.sub-heading{
+    text-align: center;
+    justify-content: center;
+}
+
+    
+
+.space{
+    margin-top: 17%;
+}
+.testimonial-txt{
+    text-align: left;
+    justify-content: center;
+}
+.testimonial-heading{
+    text-align: left;
+}
